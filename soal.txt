@@ -1,18 +1,18 @@
-Nama:
-NPM:
-Kode Soal:
+Nama:Fajar Saputra
+NPM:21312063
+Kode Soal:NPM Ganjil
 
 1. Sistem apa yang anda kembangkan?
-Jawab:
+Jawab: Smart Canteen
 
 2. Permasalahan apa yang terjadi pada studi kasus anda?
-Jawab:
+Jawab: Antrian panjang di kantin dan pembayaran tunai telah menjadi masalah yang sering terjadi. Hal ini membuat para siswa kehabisan waktu istirahatnya untuk makan dan melanjutkan aktivitas belajar dikelas.
 
 3. Apa solusi yang dapat anda berikan pada permasalahan tersebut?
-Jawab:
+Jawab: Membangun proyek sistem yang memungkinkan siswa dan guru memesan makanan secara online dan melakukan pembayaran elektronik. Tujuan utama proyek ini adalah meningkatkan efisiensi, mengurangi antrian, dan memberikan pengalaman bertransaksi yang lebih baik pada kantin
 
 4. Apa yang menjadi nilai lebih solusi yang anda hadirkan dari sistem/solusi yang sudah ada?
-Jawab:
+Jawab:Memberikan Kefesiensi dan kefektifan dalam mememasan makanan dan melakukan pembayaran
 
 5. Apa saja kendala dan resiko yang mungkin akan anda hadapi selama pengembangan sistem?
-Jawab:
+Jawab:Anggaran dana yang terbatas

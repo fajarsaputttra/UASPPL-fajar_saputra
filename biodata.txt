@@ -1,9 +1,9 @@
-Nama:
-NPM:
-Prodi:
+Nama:Fajar Saputra
+NPM: 21312063
+Prodi: Informatika
 
 Link hasil perencanaan sistem menggunakan BRD:
-*upload BRD ke drive dan pastikan akses file bersifat public
+*https://drive.google.com/file/d/1TLF6Lrd41ijSvZxJ7OE2Zgzu-yDpf0Jf/view?usp=sharing
 
 Link hasil perencanaan sistem menggunakan Trello:
-*upload link trello dan pastikan akses board bersifat public
+https://trello.com/invite/b/LPBCMfoP/ATTIbf925f034251c8a8f1ce3c459449043f0E3E85F2/smart-canteen-program
